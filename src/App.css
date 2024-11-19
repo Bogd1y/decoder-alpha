@@ -27,8 +27,12 @@ body {
     font-size: 135%;
 }
 
+.xl-emoji{
+    font-size: 150%;
+}
+
 .me-logo{
-    max-height: 18px;
+    max-height: 20px;
 }
 
 @font-face {
